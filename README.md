@@ -12,4 +12,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-xylintcs--zk-black?logo=github&logoColor=fff)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@XylintCS-blue?logo=twitter&logoColor=fff)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-@XylintCS-blue?logo=twitter&logoColor=fff)](https://twitter.com/XylintCS)
