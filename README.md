@@ -18,19 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xylintcs-zk&layout=compact&theme=dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=xylintcs-zk&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=xylintcs-zk&theme=dark)
-
----
-
-### 🚀 Projects
-- [**Xylint**](https://github.com/xylintcs-zk/xylint) – Interactive base encoder/decoder with chat interface  
-- [Other Project](#) – Web3 / security tool / hardware project  
-
----
-
 ### 🌐 Connect with me
-[![Twitter](https://img.shields.io/badge/Twitter-@xylint-blue?logo=twitter&logoColor=fff)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-@XylintCS-blue?logo=twitter&logoColor=fff)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=fff)](#)
