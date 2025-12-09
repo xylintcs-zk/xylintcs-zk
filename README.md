@@ -1,7 +1,7 @@
 - Cyber security & privacy tools (local, zero-knowledge)  
 - Web3 applications  
 - Hardware & embedded projects  
-- Full-stack web apps (Python, HTML, JS, CSS)  
+- Full-stack web apps
 
 ---
 
